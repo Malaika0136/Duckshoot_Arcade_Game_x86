@@ -62,7 +62,7 @@ DuckShoot/
  ┣ 📄 mode.asm         # Mode selection logic (Easy / Hard)
  ┣ 📄 resume.asm       # Pause and resume implementation
  ┣ 📄 SCORES.txt       # (Generated) Stores names and high scores
- ┣ 📄 README.md        # Game documentation (this file)
+ ┣ 📄 README.md        # Game documentation
 ```
 
 ---
