@@ -164,7 +164,7 @@ game.exe
 
 ##  Author
 
-* **Project By:** \Malaika Nasir
+* **Project By:** Malaika Nasir
 * **Platform:** x86 Assembly Language (MASM)
 * **Environment:** DOSBox Emulator
 
